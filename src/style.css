@@ -1,0 +1,17 @@
+.item-input {
+  margin: 0;
+  border: none;
+  font-size: 26px;
+  height: 40px;
+}
+
+.item-li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+}
+
+.item-li h3 {
+  margin: 0;
+}
